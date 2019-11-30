@@ -1,2 +1,20 @@
-# Analysis-of-the-influence-of-Metallica-concert-on-public-transportation-service
-The analysis of both publicly and privately available data is done, trends, feature correlations is established and other inherent inference is drawn.
+# Analysis of the Tartu public city bike sharing service as well influence of Metallica concert on public transportation service.
+
+**General description:** ***Tartu city bike sharing systems is a mean of renting bicycles where the process of obtaining membership, rental, and bike return is automated via a network of docks locations throughout the city. Using this system, people are able rent a bike from a one location and return it to a different place. Currently, there are over 700 bikes (both mechanical and ebike) around Tartu metropolis.***
+
+## Data:  
+***The data source used is both _private_ and public, _the private data source is not exposed in anyway or form_ and only the publicly avaialable data is linked.  The analysis of both publicly and privately available data is done, trends, feature correlations is established and other inherent inference is drawn.***
+## Task list
+- [x] Acquire data from Tartu city goverment by proxy through computer science institute, university of Tartu.
+- [x] Data preprocessing: data cleaning et al
+- [x]  Data visualisation using Tableau and Pandas
+*** Data inspection and pattern mining***
+- [ ] most frequent dock used on and before metalica concert
+- [ ] most frequent route used on and before metalica concert
+- [ ] bike usage during metallica concert as compared to other ordinary days
+- [ ] average usage on metallica concert compared to other days (within days)
+- [ ] What drivs demand for Tartu city bikes on a neutral day.
+- [ ] Other exploratory analysis possible
+- [ ] Bike rental predictor
+- [ ] Push my commits to GitHub
+- [ ] Open a pull request
