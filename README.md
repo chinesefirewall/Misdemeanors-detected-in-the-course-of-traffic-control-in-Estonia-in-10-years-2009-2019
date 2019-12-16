@@ -4,6 +4,7 @@
 
 ## Data:  
 ***The data source used is both _private_ and public, _the private data source is not exposed in anyway or form_ and only the publicly avaialable data is linked.  The analysis of both publicly and privately available data is done, trends, feature correlations is established and other inherent inference is drawn.***
+
 ## Task list
 - [x] Acquire data from Tartu city goverment by proxy through computer science institute, university of Tartu.
 - [x] Data preprocessing: data cleaning et al
@@ -15,7 +16,7 @@
 - [x] average usage on metallica concert compared to other days (within days)
 - [x] Other exploratory analysis possible
 - [x] Push my commits to GitHub
-- [ ] Open a pull request
+- [x] Open a pull request
 
 
-***The repo is organised in such a way that the file name reflects its content. The notebook has been simplify in such as not to expose any part of te daata used for these. However, figures extract from such data are maintained for vizuaization puposes ***
+***The repo is organised in such a way that the file name reflects its content. The notebook has been simplify in such as not to expose any part of te daata used for these. However, figures extract from such data are maintained for vizuaization puposes***
