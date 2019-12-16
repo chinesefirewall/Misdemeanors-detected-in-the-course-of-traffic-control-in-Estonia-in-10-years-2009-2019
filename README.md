@@ -9,12 +9,10 @@
 - [x] Data preprocessing: data cleaning et al
 - [x]  Data visualisation using Tableau and Pandas
 *** Data inspection and pattern mining***
-- [ ] most frequent dock used on and before metalica concert
-- [ ] most frequent route used on and before metalica concert
-- [ ] bike usage during metallica concert as compared to other ordinary days
-- [ ] average usage on metallica concert compared to other days (within days)
-- [ ] What drivs demand for Tartu city bikes on a neutral day.
-- [ ] Other exploratory analysis possible
-- [ ] Bike rental predictor
-- [ ] Push my commits to GitHub
+- [x] most frequent dock used on and before metalica concert
+- [x] most frequent route used on and before metalica concert
+- [x] bike usage during metallica concert as compared to other ordinary days
+- [x] average usage on metallica concert compared to other days (within days)
+- [x] Other exploratory analysis possible
+- [x] Push my commits to GitHub
 - [ ] Open a pull request
