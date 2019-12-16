@@ -18,4 +18,4 @@
 - [ ] Open a pull request
 
 
-*** The repo is organised in such a way that the file name reflects its content. The notebook has been simplify in such as not to expose any part of te daata used for these. However, figures extract from such data are maintained for vizuaization puposes  ***
+***The repo is organised in such a way that the file name reflects its content. The notebook has been simplify in such as not to expose any part of te daata used for these. However, figures extract from such data are maintained for vizuaization puposes ***
