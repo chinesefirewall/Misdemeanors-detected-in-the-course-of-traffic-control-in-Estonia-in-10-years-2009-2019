@@ -19,6 +19,6 @@
 - [x] Open a pull request
 
 
-***The repo is organised in such a way that the file name reflects its content. The notebook has been simplify in such as not to expose any part of te data used for these. However, figures extracted from such data are maintained for vizuaization puposes***
+***The repo is organised in such a way that only few files are on display due to data protection agreement. The notebook has been simplify in such as not to expose any part of te data used for these. However, you can contact me if you want to explore such data in the future, I'm open to collaborations***
 
-***Notebook file named: project IDS.ipynb is a jupyter notebook in which most of the codes and workflow are located. For legal reasons, most data frames are silenced and only some snippet as reasoably can be exposed are shown.***
+***Notebook file named: project IDS.ipynb is a jupyter notebook in which most of the codes and workflow are located. For legal reasons, most data frames are silenced and only some snippet as reasoably as possible can be exposed are shown.***
