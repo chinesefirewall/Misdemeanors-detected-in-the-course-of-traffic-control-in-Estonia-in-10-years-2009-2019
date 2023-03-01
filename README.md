@@ -1,7 +1,7 @@
 ![](http://i.imgur.com/y8g506n.png?1)
 
 # This is a mini project on Estonian traffic accidents between 2010 and 2019 
-.
+
 ### Technologies
 * Python
 * PostGres, MySql
@@ -25,6 +25,7 @@
 Goal 1: Predict the probability of reoccurring misdemeanors using ML
 Goal 2: Find out and visualise different misdemeanors by cities (what are the most likely places to have serious accidents)
 Goal 3: Find out if speed limit change and speed cameras have affected the number of misdemeanours
+
 ##### Links:
 The metadata can be sourced from data.europa.eu - The official portal for European data
 [1] https://www.europeandataportal.eu/data/datasets/https-opendata-riik-ee-andmehulgad-liiklusjarelevalve-alased-syyteod-?locale=et
