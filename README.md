@@ -1,24 +1,49 @@
-# Analysis of the Tartu public city bike sharing service as well influence of Metallica concert on public transportation services.
+![](http://i.imgur.com/y8g506n.png?1)
 
-**General description:** ***Tartu city bike sharing systems is a mean of renting bicycles where the process of obtaining membership, rental, and bike return is automated via a network of docks locations throughout the city. Using this system, people are able rent a bike from a one location and return it to a different place. Currently, there are over 700 bikes (both mechanical and ebike) around Tartu metropolis.***
-
-## Data:  
-***The database used is private. The raw data is not exposed in anyway significant way so as not to compromise the integrety of the source.  The analysis of both public and privately available data is done. Trends, feature correlations is established and other inherent inference drawn.***
-
-## Task list
-- [x] Acquire data from Tartu city goverment by proxy through computer science institute, university of Tartu.
-- [x] Data preprocessing: data cleaning et al
-- [x]  Data visualisation using Tableau and Pandas
-*** Data inspection and pattern mining***
-- [x] most frequent dock used on and before metalica concert
-- [x] most frequent route used on and before metalica concert
-- [x] bike usage during metallica concert as compared to other ordinary days
-- [x] average usage on metallica concert compared to other days (within days)
-- [x] Other exploratory analysis possible
-- [x] Push my commits to GitHub
-- [x] Open a pull request
+# This is a mini project on Estonian traffic accidents between 2010 and 2019 
+.
+### Technologies
+* Python
+* PostGres, MySql
+* Pandas, jupyter
+* Matplotlib
+* Numpy
+* Pandas
+* Sklearn
+* Math
 
 
-***The repo is organised in such a way that only few files are on display due to data protection agreement. The notebook has been simplify in such as not to expose the data used for work. However, you can contact me if you want to explore such data in the future, I'm open to collaborations***
 
-***Notebook file named: project IDS.ipynb is a jupyter notebook in which most of the codes and workflow are located. For legal reasons, all visualization regarding private data are silenced and only some snippet as reasoably as possible from the public data are shown.***
+| Dataset | Description |
+| ------ | ------ |
+| Dataset 1 (62.5 MB) | Misdemeanors for this and last year |
+| Dataset 2 (177 MB) | Misdemeanors for last five years |
+| Dataset 3 (92.9 MB) | Misdemeanors from last five to ten years|
+
+## Objectives of the work.
+
+Goal 1: Predict the probability of reoccurring misdemeanors using ML
+Goal 2: Find out and visualise different misdemeanors by cities (what are the most likely places to have serious accidents)
+Goal 3: Find out if speed limit change and speed cameras have affected the number of misdemeanours
+##### Links:
+The metadata can be sourced from data.europa.eu - The official portal for European data
+[1] https://www.europeandataportal.eu/data/datasets/https-opendata-riik-ee-andmehulgad-liiklusjarelevalve-alased-syyteod-?locale=et
+
+## To reproduce this work:
+
+For all of the ipynb files:
+  * Make sure you have the neccessary files downloaded: liiklusjarelevalve_1.csv, liiklusjarelevalve_2.csv, liiklusjarelevalve_3.csv
+  * Open the notebook and replace the file locations in the beginning of the code(if needed)
+  * You can use Google Colab as well to run those ipynb files
+  * Run all cells
+
+#### Goals:
+ * linnad.ipynb file is related to goal 1 which is about finding out the misdemeanours per person in Estonia in 2018
+ * speedcameras.ipynb is about goal 2 where we analysed the relation of speed cameras and misdemeanours
+
+
+##### Links:
+[1] https://www.europeandataportal.eu/data/datasets/https-opendata-riik-ee-andmehulgad-liiklusjarelevalve-alased-syyteod-?locale=et
+
+## License
+MIT
